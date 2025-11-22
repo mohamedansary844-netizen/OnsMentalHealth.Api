@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\OnsMentalHealth.Api\\bin",
-    "\\OnsMentalHealth.Api\\bin\\Debug",
-    "\\OnsMentalHealth.Api\\bin\\Debug\\net8.0",
-    "\\OnsMentalHealth.BLL",
-    "\\OnsMentalHealth.DAl"
+    "\\OnsMentalHealth.Api",
+    "\\OnsMentalHealth.Api\\Controllers",
+    "\\OnsMentalHealth.DAl",
+    "\\OnsMentalHealth.DAl\\Entities"
   ],
-  "SelectedNode": "\\OnsMentalHealth.sln",
   "PreviewInSolutionExplorer": false
 }

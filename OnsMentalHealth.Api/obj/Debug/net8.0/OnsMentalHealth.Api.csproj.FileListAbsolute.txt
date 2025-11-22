@@ -185,3 +185,4 @@ F:\OnsMentalHealth.Api\OnsMentalHealth.Api\obj\Debug\net8.0\refint\OnsMentalHeal
 F:\OnsMentalHealth.Api\OnsMentalHealth.Api\obj\Debug\net8.0\OnsMentalHealth.Api.pdb
 F:\OnsMentalHealth.Api\OnsMentalHealth.Api\obj\Debug\net8.0\OnsMentalHealth.Api.genruntimeconfig.cache
 F:\OnsMentalHealth.Api\OnsMentalHealth.Api\obj\Debug\net8.0\ref\OnsMentalHealth.Api.dll
+F:\OnsMentalHealth.Api\OnsMentalHealth.Api\obj\Debug\net8.0\OnsMentalHealth.Api.sourcelink.json
