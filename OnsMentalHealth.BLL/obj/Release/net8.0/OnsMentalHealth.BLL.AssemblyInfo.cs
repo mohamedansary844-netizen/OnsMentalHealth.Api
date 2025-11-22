@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnsMentalHealth.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fdad972dea3f2c4f84251fcd8a647b56d9ec9f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnsMentalHealth.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnsMentalHealth.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,16 @@
 {
   "ExpandedNodes": [
-    "\\OnsMentalHealth.Api",
+    "",
     "\\OnsMentalHealth.Api\\Controllers",
-    "\\OnsMentalHealth.DAl",
+    "\\OnsMentalHealth.BLL",
+    "\\OnsMentalHealth.BLL\\DTOs",
+    "\\OnsMentalHealth.BLL\\DTOs\\ Auth",
+    "\\OnsMentalHealth.BLL\\DTOs\\ Users",
+    "\\OnsMentalHealth.BLL\\DTOs\\Appointments",
+    "\\OnsMentalHealth.BLL\\DTOs\\Therapist",
+    "\\OnsMentalHealth.BLL\\Service",
     "\\OnsMentalHealth.DAl\\Entities"
   ],
+  "SelectedNode": "\\OnsMentalHealth.BLL\\Service\\Implementations",
   "PreviewInSolutionExplorer": false
 }
