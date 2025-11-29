@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnsMentalHealthSolution.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c45cbf78710f9a209f823fe31ff85701c1ab7fd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnsMentalHealthSolution.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnsMentalHealthSolution.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

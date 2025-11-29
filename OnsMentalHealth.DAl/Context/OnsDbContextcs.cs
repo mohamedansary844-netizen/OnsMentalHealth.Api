@@ -16,8 +16,7 @@ namespace OnsMentalHealthSolution.DAL.Context
         // NOTE: متنسوش تغيروا اسم السيرفر لو هتشغلوا الكود على جهاز تاني
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseSqlServer("Data Source=LEO;Initial Catalog=Ons;Integrated Security=True;Encrypt=False;Trust Server Certificate=True");
-
+            => optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Ons;Integrated Security=True;Encrypt=False;Trust Server Certificate=True");
         public DbSet<User> Users { get; set; }
         public DbSet<Therapist> Therapists { get; set; }
 

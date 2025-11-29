@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\OnsMentalHealth.Api\\Controllers",
     "\\OnsMentalHealth.BLL",
     "\\OnsMentalHealth.BLL\\DTOs",
-    "\\OnsMentalHealth.BLL\\DTOs\\ Auth",
-    "\\OnsMentalHealth.BLL\\DTOs\\ Users",
-    "\\OnsMentalHealth.BLL\\DTOs\\Appointments",
-    "\\OnsMentalHealth.BLL\\DTOs\\Therapist",
+    "\\OnsMentalHealth.BLL\\Manager",
+    "\\OnsMentalHealth.BLL\\Mapping",
     "\\OnsMentalHealth.BLL\\Service",
+    "\\OnsMentalHealth.BLL\\Service\\Implementations",
+    "\\OnsMentalHealth.BLL\\Service\\Interfaces",
+    "\\OnsMentalHealth.DAl",
     "\\OnsMentalHealth.DAl\\Entities"
   ],
-  "SelectedNode": "\\OnsMentalHealth.BLL\\Service\\Implementations",
+  "SelectedNode": "\\OnsMentalHealth.DAl\\Entities\\Comment.cs",
   "PreviewInSolutionExplorer": false
 }

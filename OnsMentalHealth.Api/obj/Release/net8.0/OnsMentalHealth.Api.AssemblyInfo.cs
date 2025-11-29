@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnsMentalHealth.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff1cef4844f427450ae0618c6231d31bc17a815f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c45cbf78710f9a209f823fe31ff85701c1ab7fd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnsMentalHealth.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnsMentalHealth.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

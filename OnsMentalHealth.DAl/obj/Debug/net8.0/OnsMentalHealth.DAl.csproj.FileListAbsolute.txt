@@ -1,16 +1,5 @@
-C:\Users\khale\source\repos\OnsMentalHealth.Api\OnsMentalHealth.DAl\bin\Debug\net8.0\OnsMentalHealth.DAl.deps.json
-C:\Users\khale\source\repos\OnsMentalHealth.Api\OnsMentalHealth.DAl\bin\Debug\net8.0\OnsMentalHealth.DAl.dll
-C:\Users\khale\source\repos\OnsMentalHealth.Api\OnsMentalHealth.DAl\bin\Debug\net8.0\OnsMentalHealth.DAl.pdb
-C:\Users\khale\source\repos\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.csproj.AssemblyReference.cache
-C:\Users\khale\source\repos\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\khale\source\repos\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.AssemblyInfoInputs.cache
-C:\Users\khale\source\repos\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.AssemblyInfo.cs
-C:\Users\khale\source\repos\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.csproj.CoreCompileInputs.cache
-C:\Users\khale\source\repos\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.dll
-C:\Users\khale\source\repos\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\refint\OnsMentalHealth.DAl.dll
-C:\Users\khale\source\repos\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.pdb
-C:\Users\khale\source\repos\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\ref\OnsMentalHealth.DAl.dll
 F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\bin\Debug\net8.0\OnsMentalHealth.DAl.deps.json
+F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\bin\Debug\net8.0\OnsMentalHealth.DAl.runtimeconfig.json
 F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\bin\Debug\net8.0\OnsMentalHealth.DAl.dll
 F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\bin\Debug\net8.0\OnsMentalHealth.DAl.pdb
 F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.csproj.AssemblyReference.cache
@@ -18,7 +7,9 @@ F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.
 F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.AssemblyInfoInputs.cache
 F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.AssemblyInfo.cs
 F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.csproj.CoreCompileInputs.cache
+F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.sourcelink.json
 F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.dll
 F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\refint\OnsMentalHealth.DAl.dll
 F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.pdb
+F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\OnsMentalHealth.DAl.genruntimeconfig.cache
 F:\OnsMentalHealth.Api\OnsMentalHealth.DAl\obj\Debug\net8.0\ref\OnsMentalHealth.DAl.dll

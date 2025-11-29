@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "ZaHpNq9l34HOCPp5Ka3Hve0T7lLpUK9s6z6jKu3faXs=",
-  "Source": "OnsMentalHealth.Api",
-  "BasePath": "_content/OnsMentalHealth.Api",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"ZaHpNq9l34HOCPp5Ka3Hve0T7lLpUK9s6z6jKu3faXs=","Source":"OnsMentalHealth.Api","BasePath":"_content/OnsMentalHealth.Api","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
