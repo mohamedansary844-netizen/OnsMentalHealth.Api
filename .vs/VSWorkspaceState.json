@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\OnsMentalHealth.BLL",
-    "\\OnsMentalHealth.BLL\\DTOs",
-    "\\OnsMentalHealth.BLL\\Manager",
-    "\\OnsMentalHealth.BLL\\Mapping",
-    "\\OnsMentalHealth.BLL\\Service",
-    "\\OnsMentalHealth.BLL\\Service\\Implementations",
-    "\\OnsMentalHealth.BLL\\Service\\Interfaces",
-    "\\OnsMentalHealth.DAl",
-    "\\OnsMentalHealth.DAl\\Entities"
+    ""
   ],
-  "SelectedNode": "\\OnsMentalHealth.DAl\\Entities\\Comment.cs",
+  "SelectedNode": "\\OnsMentalHealth.sln",
   "PreviewInSolutionExplorer": false
 }

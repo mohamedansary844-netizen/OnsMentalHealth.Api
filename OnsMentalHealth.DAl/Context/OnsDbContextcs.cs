@@ -12,11 +12,13 @@ namespace OnsMentalHealthSolution.DAL.Context
 {
     public class OnsDbContext : DbContext
     {
-
+        public OnsDbContext(DbContextOptions<OnsDbContext> options) : base(options)
+        {
+        }
         // NOTE: متنسوش تغيروا اسم السيرفر لو هتشغلوا الكود على جهاز تاني
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Ons;Integrated Security=True;Encrypt=False;Trust Server Certificate=True");
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //    => optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Ons;Integrated Security=True;Encrypt=False;Trust Server Certificate=True");
         public DbSet<User> Users { get; set; }
         public DbSet<Therapist> Therapists { get; set; }
 
@@ -47,7 +49,7 @@ namespace OnsMentalHealthSolution.DAL.Context
 
             modelBuilder.Entity<Comment>()
                 .HasOne(c => c.Post)
-                .WithMany(p => p.comments)
+                .WithMany(p => p.Comments)
                 .HasForeignKey(c => c.PostId)
                 .OnDelete(DeleteBehavior.Cascade);
         }

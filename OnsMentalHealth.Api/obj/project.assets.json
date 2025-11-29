@@ -4488,23 +4488,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\m\\.nuget\\packages\\": {},
+    "C:\\Users\\saeed\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\OnsMentalHealth.Api\\OnsMentalHealth.Api\\OnsMentalHealth.Api.csproj",
+      "projectUniqueName": "C:\\Users\\saeed\\Source\\Repos\\OnsMentalHealth.Api\\OnsMentalHealth.Api\\OnsMentalHealth.Api.csproj",
       "projectName": "OnsMentalHealth.Api",
-      "projectPath": "F:\\OnsMentalHealth.Api\\OnsMentalHealth.Api\\OnsMentalHealth.Api.csproj",
-      "packagesPath": "C:\\Users\\m\\.nuget\\packages\\",
-      "outputPath": "F:\\OnsMentalHealth.Api\\OnsMentalHealth.Api\\obj\\",
+      "projectPath": "C:\\Users\\saeed\\Source\\Repos\\OnsMentalHealth.Api\\OnsMentalHealth.Api\\OnsMentalHealth.Api.csproj",
+      "packagesPath": "C:\\Users\\saeed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\saeed\\Source\\Repos\\OnsMentalHealth.Api\\OnsMentalHealth.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\saeed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4519,8 +4519,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\OnsMentalHealth.Api\\OnsMentalHealth.BLL\\OnsMentalHealth.BLL.csproj": {
-              "projectPath": "F:\\OnsMentalHealth.Api\\OnsMentalHealth.BLL\\OnsMentalHealth.BLL.csproj"
+            "C:\\Users\\saeed\\Source\\Repos\\OnsMentalHealth.Api\\OnsMentalHealth.BLL\\OnsMentalHealth.BLL.csproj": {
+              "projectPath": "C:\\Users\\saeed\\Source\\Repos\\OnsMentalHealth.Api\\OnsMentalHealth.BLL\\OnsMentalHealth.BLL.csproj"
             }
           }
         }

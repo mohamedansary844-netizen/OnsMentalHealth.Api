@@ -118,20 +118,20 @@ namespace OnsMentalHealthSolution.DAL.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PostId"));
 
-                    b.Property<DateTime>("Date")
+                    b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
 
-                    b.Property<byte[]>("Image")
-                        .HasColumnType("varbinary(max)");
+                    b.Property<string>("ImageUrl")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PostContent")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PostTitle")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("TherapistId")
                         .HasColumnType("int");
-
-                    b.Property<DateTime>("time")
-                        .HasColumnType("datetime2");
 
                     b.HasKey("PostId");
 
@@ -157,6 +157,9 @@ namespace OnsMentalHealthSolution.DAL.Migrations
                     b.Property<bool>("Love")
                         .HasColumnType("bit");
 
+                    b.Property<int?>("PostId")
+                        .HasColumnType("int");
+
                     b.Property<int>("TherapistId")
                         .HasColumnType("int");
 
@@ -164,6 +167,8 @@ namespace OnsMentalHealthSolution.DAL.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("ReactionId");
+
+                    b.HasIndex("PostId");
 
                     b.HasIndex("TherapistId");
 
@@ -256,7 +261,7 @@ namespace OnsMentalHealthSolution.DAL.Migrations
             modelBuilder.Entity("OnsMentalHealthSolution.DAL.Entities.Comment", b =>
                 {
                     b.HasOne("OnsMentalHealthSolution.DAL.Entities.Post", "Post")
-                        .WithMany("comments")
+                        .WithMany("Comments")
                         .HasForeignKey("PostId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -293,6 +298,10 @@ namespace OnsMentalHealthSolution.DAL.Migrations
 
             modelBuilder.Entity("OnsMentalHealthSolution.DAL.Entities.Reaction", b =>
                 {
+                    b.HasOne("OnsMentalHealthSolution.DAL.Entities.Post", null)
+                        .WithMany("Reactions")
+                        .HasForeignKey("PostId");
+
                     b.HasOne("OnsMentalHealthSolution.DAL.Entities.Therapist", "Therapist")
                         .WithMany("Reactions")
                         .HasForeignKey("TherapistId")
@@ -312,7 +321,9 @@ namespace OnsMentalHealthSolution.DAL.Migrations
 
             modelBuilder.Entity("OnsMentalHealthSolution.DAL.Entities.Post", b =>
                 {
-                    b.Navigation("comments");
+                    b.Navigation("Comments");
+
+                    b.Navigation("Reactions");
                 });
 
             modelBuilder.Entity("OnsMentalHealthSolution.DAL.Entities.Therapist", b =>

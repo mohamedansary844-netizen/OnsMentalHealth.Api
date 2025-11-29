@@ -9,19 +9,13 @@ namespace OnsMentalHealthSolution.DAL.Entities
     public class Post
     {
         public int PostId { get; set; }
-
         public string PostTitle { get; set; }
-
-        public DateTime time { get; set; }
-        public DateTime Date { get; set; }
-
-        public byte[] Image { get; set; }
-
+        public string PostContent { get; set; }
+        public string? ImageUrl { get; set; }
+        public DateTime CreatedAt { get; set; }
         public int TherapistId { get; set; }
-        public Therapist Therapist { get; set; }
-
-        public List<Comment> comments { get; set; } 
-
-
+        public Therapist? Therapist { get; set; }
+        public List<Comment> Comments { get; set; }
+        public List<Reaction> Reactions { get; set; }
     }
 }
